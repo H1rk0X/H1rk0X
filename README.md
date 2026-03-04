@@ -50,7 +50,7 @@ I enjoy combining **logic, structure, and design** to build purposeful software.
 
 # 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=H1rk0X&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="155"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H1rk0X&layout=compact&theme=tokyonight&hide_border=true" height="155"/>
 </div>
@@ -59,7 +59,16 @@ I enjoy combining **logic, structure, and design** to build purposeful software.
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=react-dark&hide_border=true&color=00C2FF&line=00C2FF" />
-</div>
+</div> -->
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=H1rk0X&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&cache_seconds=86400" alt="GitHub Stats" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=H1rk0X&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" height="160"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H1rk0X&layout=compact&theme=tokyonight&hide_border=true&hide=markdown,json&cache_seconds=86400" alt="Top Languages" height="130"/>
+</p>
 
 ---
 
