@@ -29,18 +29,7 @@ I focus on:
 
 I enjoy combining **logic, structure, and design** to build purposeful software.
 
----
 
-# 🔥 Right Now I Am Working On
-
-- ⚡ Mastering core frontend fundamentals (HTML, CSS, JavaScript, React)
-- 🗄 Building structured application systems with Python and SQLite
-- 🧩 Data modeling and relational database architecture
-- 🐧 Arch Linux workflow and environment optimization
-- 📚 Strengthening my math and computer science foundations
-- 🧠 Practicing deliberate algorithmic problem solving
-
----
 
 # 🛠️ Tech Stack
 
@@ -58,71 +47,6 @@ I enjoy combining **logic, structure, and design** to build purposeful software.
 
 > ✨ Note: I only list tools I actually use and understand. I will not add 15 frameworks I have done one tutorial on.
 
----
-
-# 🧩 Featured Projects
-
-## 📚 School Activity Tracker
-A complete academic management system built from scratch with Python and SQLite. Designed to track schedules, marks, units and long term performance trends.
-
-**What I learned:**
-- Relational database schema design
-- Clean separation of application logic
-- Structured data flow
-- Proper project architecture and organization
-
-## 📖 Library Management System
-Collaborative group project built for my school, for tracking books, availability, lending and student records.
-
-**What I learned:**
-- Logical data modeling
-- Collaborative development and git workflow
-- Modular code organization
-- Building UI that actual non developers will use
-
-## 🐧 Arch Linux Dotfiles
-My complete personal development environment and workflow configuration.
-
-**What I learned:**
-- How operating systems actually work at a low level
-- Configuration management
-- CLI tooling and automation
-- Intentional workflow design
-
-## 🌐 Frontend Project Playground
-Ongoing collection of frontend applications built while I learn proper engineering practices.
-
-**Engineering Focus:**
-- Component based architecture
-- Proper state management
-- Truly responsive layouts
-- Accessibility fundamentals
-- Clean, maintainable project structure
-
----
-
-# 🎯 2026 Goals
-
-- Master modern frontend architecture patterns
-- Build and launch one complete flagship full stack application
-- Learn proper performance optimization and measurement
-- Write production quality structured code
-- Build security first habits
-- Contribute to one real open source project
-
----
-
-# 📆 My Journey
-
-| Year | Milestone |
-|------|-----------|
-| 2024 | Wrote my first real code, installed Arch Linux |
-| 2025 | Learned SQL, built my first proper structured applications |
-| 2025 | Started my frontend engineering journey |
-| 2026 | Current: Deep diving into architecture and scalable systems |
-| 2027 | Looking for internships and mentorship opportunities |
-
----
 
 # 📊 GitHub Stats
 
@@ -152,8 +76,6 @@ Ongoing collection of frontend applications built while I learn proper engineeri
 ---
 
 # 📬 Connect With Me
-
-I am currently open to mentorship, interesting conversations, and any entry level internship opportunities for 2027.
 
 <div align="center">
   <a href="mailto:YOUR_EMAIL">
