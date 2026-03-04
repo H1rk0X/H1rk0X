@@ -1,185 +1,166 @@
 <h1 align="center">Hi 👋, I'm Raya</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=24&center=true&vCenter=true&width=700&lines=High+School+Student+%7C+Aspiring+Software+Engineer;Linux+Enthusiast+%7C+Frontend+Developer+in+Progress;Building+Structured+Systems+%26+Clean+Interfaces" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=24&center=true&vCenter=true&width=700&lines=High+School+Student+%7C+Aspiring+Software+Engineer;Linux+Enthusiast+%7C+Future+Frontend+Engineer;Building+Structured+Systems+%26+Clean+Interfaces" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile+Views&color=00C2FF&style=flat" alt="Profile views" />
+  <a href="https://github.com/YOURUSERNAME?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/YOURUSERNAME?style=flat&color=00C2FF">
+  </a>
 </p>
 
 ---
 
 # 🧠 About Me
 
-I am a systems-curious high school student passionate about understanding technology from the ground up — from Linux configuration to frontend architecture and database design.
+I am a systems-curious high school student passionate about understanding technology from the ground up — from kernel configuration to frontend architecture and database design.
+
+I don't learn frameworks to check boxes. I want to understand how the things I use actually work.
 
 I focus on:
 
-- Building structured, well-documented applications  
-- Writing clean and scalable code  
-- Understanding systems instead of just using them  
-- Strengthening algorithmic thinking  
-- Developing strong frontend engineering fundamentals  
+- Building structured, well documented, maintainable applications
+- Writing clean, boring, scalable code
+- Understanding systems instead of just using them
+- Building strong fundamental skills instead of chasing trends
+- Strengthening algorithmic and structured problem solving
 
 I enjoy combining **logic, structure, and design** to build purposeful software.
 
 ---
 
-# 🔥 Current Focus
+# 🔥 Right Now I Am Working On
 
-- ⚡ Modern Frontend Development (HTML, CSS, JavaScript, React)
-- 🗄 Python + SQLite Application Systems
-- 🧩 Data Modeling & Database Architecture
-- 🐧 Arch Linux & Workflow Optimization
-- 📚 Strengthening Math & Science foundations
-- 🧠 Algorithmic thinking & structured problem solving
+- ⚡ Mastering core frontend fundamentals (HTML, CSS, JavaScript, React)
+- 🗄 Building structured application systems with Python and SQLite
+- 🧩 Data modeling and relational database architecture
+- 🐧 Arch Linux workflow and environment optimization
+- 📚 Strengthening my math and computer science foundations
+- 🧠 Practicing deliberate algorithmic problem solving
 
 ---
 
 # 🛠️ Tech Stack
 
 ## 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,sql,bash" />
-</p>
+<img src="https://skillicons.dev/icons?i=py,js,html,css,sql,bash" />
 
 ## ⚛️ Frontend & Web
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,nextjs" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,tailwind" />
 
 ## 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=sqlite,mysql" />
-</p>
+<img src="https://skillicons.dev/icons?i=sqlite" />
 
 ## ⚙️ Tools & Workflow
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,arch" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,arch" />
+
+> ✨ Note: I only list tools I actually use and understand. I will not add 15 frameworks I have done one tutorial on.
 
 ---
 
 # 🧩 Featured Projects
 
-## 📚 School Activity Tracker (Python + SQLite)
+## 📚 School Activity Tracker
+A complete academic management system built from scratch with Python and SQLite. Designed to track schedules, marks, units and long term performance trends.
 
-A structured academic management system designed to track:
-
-- Subjects
-- Schedules
-- Marks
-- Units
-- Performance trends
-
-**Focus Areas:**
-- Database schema design
-- CRUD operations
+**What I learned:**
+- Relational database schema design
+- Clean separation of application logic
 - Structured data flow
-- Application logic separation
-- Clean folder architecture
-
----
+- Proper project architecture and organization
 
 ## 📖 Library Management System
+Collaborative group project built for my school, for tracking books, availability, lending and student records.
 
-Collaborative project for organizing books, availability tracking, and record management.
-
-**Focus Areas:**
+**What I learned:**
 - Logical data modeling
-- Structured UI
-- Collaborative development
+- Collaborative development and git workflow
 - Modular code organization
+- Building UI that actual non developers will use
 
----
+## 🐧 Arch Linux Dotfiles
+My complete personal development environment and workflow configuration.
 
-## 🐧 Arch Linux Dotfiles & Workflow Setup
-
-Custom Linux environment configuration including:
-
-- Window manager setup
-- Productivity scripts
-- System optimization
-- Clean development workflow
-
-**Focus Areas:**
-- System-level understanding
-- Environment customization
-- CLI proficiency
+**What I learned:**
+- How operating systems actually work at a low level
 - Configuration management
+- CLI tooling and automation
+- Intentional workflow design
 
----
-
-## 🌐 Frontend Applications (Ongoing)
-
-Responsive web applications built with modern JavaScript and React.
+## 🌐 Frontend Project Playground
+Ongoing collection of frontend applications built while I learn proper engineering practices.
 
 **Engineering Focus:**
-- Component-based architecture
-- State management
-- Responsive layouts
-- Accessibility basics
-- Clean project structure
+- Component based architecture
+- Proper state management
+- Truly responsive layouts
+- Accessibility fundamentals
+- Clean, maintainable project structure
 
 ---
 
-# 📈 2026 Development Goals
+# 🎯 2026 Goals
 
-- Master frontend architecture patterns
-- Build a flagship full-stack application
-- Improve performance optimization techniques
-- Write production-style structured code
-- Develop security-aware systems
-- Maintain consistent open-source activity
+- Master modern frontend architecture patterns
+- Build and launch one complete flagship full stack application
+- Learn proper performance optimization and measurement
+- Write production quality structured code
+- Build security first habits
+- Contribute to one real open source project
 
 ---
 
-# 📆 Development Timeline
+# 📆 My Journey
 
 | Year | Milestone |
 |------|-----------|
-| 2024 | Started exploring Linux & programming fundamentals |
-| 2025 | Built Python + SQLite structured applications |
-| 2025 | Began frontend development journey |
-| 2026 | Focused on frontend architecture & scalable systems |
+| 2024 | Wrote my first real code, installed Arch Linux |
+| 2025 | Learned SQL, built my first proper structured applications |
+| 2025 | Started my frontend engineering journey |
+| 2026 | Current: Deep diving into architecture and scalable systems |
+| 2027 | Looking for internships and mentorship opportunities |
 
 ---
 
 # 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true" height="155"/>
 </div>
 
 ---
-
-# 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=react-dark&hide_border=true&color=00C2FF&line=00C2FF" />
 </div>
 
 ---
 
-# 🎯 Development Philosophy
+# 🧭 Philosophy
 
-- Structure before speed  
-- Clarity before complexity  
-- Consistency over intensity  
-- Understand deeply, build deliberately  
+> There are a lot of ways to be a bad developer. There are very few ways to be a good one.
+
+- Structure before speed
+- Clarity before cleverness
+- Consistency over intensity
+- Understand deeply, build deliberately
+- Fundamentals over trends
 
 ---
 
 # 📬 Connect With Me
 
+I am currently open to mentorship, interesting conversations, and any entry level internship opportunities for 2027.
+
 <div align="center">
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/YOURUSERNAME">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
@@ -190,5 +171,5 @@ Responsive web applications built with modern JavaScript and React.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7700FF&height=100&section=footer"/>
 </p>
