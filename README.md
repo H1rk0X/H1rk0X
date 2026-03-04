@@ -51,8 +51,8 @@ I enjoy combining **logic, structure, and design** to build purposeful software.
 # 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="155"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true" height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=H1rk0X&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H1rk0X&layout=compact&theme=tokyonight&hide_border=true" height="155"/>
 </div>
 
 ---
