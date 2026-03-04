@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raya</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=24&center=true&vCenter=true&width=700&lines=High+School+Student+%7C+Aspiring+Software+Engineer;Linux+Enthusiast+%7C+Future+Frontend+Engineer;Building+Structured+Systems+%26+Clean+Interfaces" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=24&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Linux+Enthusiast+%7C+Future+Frontend+Engineer;Building+Structured+Systems+%26+Clean+Interfaces" />
 </div>
 
 <p align="center">
